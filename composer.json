@@ -1,5 +1,5 @@
 {
-    "name": "zerossb/world",
+    "name": "zerossb/laravel-world",
     "description": "Provide countries, states, and cities relations database. (Forked from khsing/laravel-world)",
     "keywords": [
         "world",
